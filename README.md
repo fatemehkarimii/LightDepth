@@ -11,5 +11,5 @@
 ## Data
 * [KITTI](https://www.cvlibs.net/datasets/kitti/): copy the raw data to a folder with the path '../kitti'. Our method expects dense input depth maps, therefore, you need to run a depth inpainting method on the Lidar data. 
 ## Training & Evaluation
-* Then simply run python main.py.
+* Simply run python main.py.
 
