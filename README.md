@@ -7,7 +7,10 @@ Visual comparison to demonstrate the improvement of our output over DenseNet on 
 Performance comparisons of state-of-the-art depth estimation models on the KITTI Eigen split dataset. The Raspberry Pi 4 device was used for evaluation,The table highlights the best results in bold.
 ![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/5c6e06de-1dcc-4d40-a549-5351722619ea)
 Comparison with prior works in terms of the number of trainable parameters (Params), Gflops, Runtime, and Battery. Results on the KITTI Eigen split dataset.
+
 ![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/7cac114a-26e3-4661-ac7b-a7889099595f)
+![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/3c9b449f-347a-4b6e-ba03-fa2bc6eb05d9)
+
 
 ## Data
 [KITTI](https://www.cvlibs.net/datasets/kitti/): copy the raw data to a folder with the path '../kitti'. Our method expects dense input depth maps, therefore, you need to run a depth inpainting method on the Lidar data. 
