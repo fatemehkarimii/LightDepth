@@ -13,6 +13,6 @@
 ## Training & Evaluation
 * Simply run python main.py.
 ## Pretrained model
-Pretrained model can ce accessed [here](https://drive.google.com/drive/u/1/folders/1Vteq2R6x2p9dPvS9DGYJ5cQQE85SZuhE)
+* Pretrained model can ce accessed [here](https://drive.google.com/drive/u/1/folders/1Vteq2R6x2p9dPvS9DGYJ5cQQE85SZuhE)
  
 
