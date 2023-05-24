@@ -8,7 +8,7 @@ Performance comparisons of state-of-the-art depth estimation models on the KITTI
 ![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/5c6e06de-1dcc-4d40-a549-5351722619ea)
 Comparison with prior works in terms of the number of trainable parameters (Params), Gflops, Runtime, and Battery. Results on the KITTI Eigen split dataset.
 
-![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/7cac114a-26e3-4661-ac7b-a7889099595f=250x250)
+![image](https://github.com/fatemehkarimii/LightDepth/assets/49230804/7cac114a-26e3-4661-ac7b-a7889099595f| width=100)
 \
 
 
