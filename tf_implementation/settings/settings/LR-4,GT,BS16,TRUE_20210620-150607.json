@@ -1,0 +1,29 @@
+{  
+    "initial_learning_rate": 1e-4,
+    "decay_rate": 0.8,
+    "decay_steps": 23000,
+    "encoder": "DenseNet169",
+    "multiple_strategy": false,
+    "do_flip": true,
+    "use_normalized_image": true,
+    "num_warmup_steps": 500,
+    "num_steps_per_train_checkpoint": 100,
+    "num_steps_per_test_checkpoint": 1000,
+    "loss_fn": "densedepth_loss",
+    "decoder_last_layer_activation_fn": "linear",
+    "garg_crop": false,
+    "do_flip_predict": false,
+    "_early_stopping_patience": [
+        "inf"
+    ],
+    "early_stopping_thresh": 0.9,
+    "strategies": [
+        {
+            "iterations": 0,
+            "pool_size": [
+                0,
+                0
+            ]
+        }
+    ]
+}
